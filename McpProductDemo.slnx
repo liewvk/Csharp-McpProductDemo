@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../McpProductClient/McpProductClient.csproj" />
+  <Project Path="../McpProductServer/McpProductServer.csproj" />
+  <Project Path="McpProductDemo.csproj" />
+</Solution>
